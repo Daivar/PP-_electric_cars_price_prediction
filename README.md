@@ -24,7 +24,7 @@ Electric Vehicle Data:
 - Price in the UK (Pound)
 
 Price and most important parametres Vehicle Battery capacity (KWH), Acceleration, TopSpeed, Range FastChargeSpeed has high corellation. Similarly, vehicle range and KWH has a high correlation of 0.89, it is obvious as the battery capacity, more will be the range of the vehicle.
-image.png
+![image](https://user-images.githubusercontent.com/34160094/146810851-770dcf37-110a-4302-af64-804242623ca4.png)
 
 Drive column will be encoded - front-wheel drive is saved as 1, rear-wheel drive as 2 and all-wheel drive as 3. Basically, the reason is that data is as text, but is categorical data.
 
@@ -34,14 +34,14 @@ Acc (Accuracy) using Random Forest Regressor 0.81
 Acc using Decision Tree Classifier after increasing max deep 0.9
 
 For better metrics used PCA (dimensionality reduction):
-image.png
+![image](https://user-images.githubusercontent.com/34160094/146811221-992619f9-517b-42ee-8d42-cd9da278813a.png)
 
 Acc 0.98
 
 Acc (Accuracy) using Random Forest Regressor 0.81
 Acc using Decision Tree Classifier after increasing max deep 0.9
 
-image.png
+![image](https://user-images.githubusercontent.com/34160094/146811286-c6095c87-bd11-4986-9275-729ef8985b18.png)
 
 Electric cars dataset is from:
 https://www.analyticsvidhya.com/blog/2021/09/data-analysis-and-price-prediction-of-electric-vehicles/#h2_6
