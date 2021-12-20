@@ -7,8 +7,6 @@ Major carmakers like Tesla and Audi manufacture most types of electric vehicles.
 
 There are, however, many challenges associated with electric vehicles. They have a limited range. Charging the vehicle takes time and can be a hassle sometimes. The availability of charging stations is also a big issue. Incompatibility of charging stations can also be a problem. Despite many challenges and issues, switching to electric vehicles is good for the environment and is more economically viable in the long term. Many have predicted that, by 2040, most of the vehicles will be electric.
 
-There are, however, many challenges associated with electric vehicles. They have a limited range. Charging the vehicle takes time and can be a hassle sometimes. The availability of charging stations is also a big issue. Incompatibility of charging stations can also be a problem. Despite many challenges and issues, switching to electric vehicles is good for the environment and is more economically viable in the long term. Many have predicted that, by 2040, most of the vehicles will be electric.
-
 Data Set on Kaggle: https://www.kaggle.com/kkhandekar/cheapest-electric-cars
 The data consists of 180 vehicles and there are some missing values as well. We can conduct various data analytics visualizations to understand the data and information.
 Electric Vehicle Data:
