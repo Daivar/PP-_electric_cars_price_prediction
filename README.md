@@ -3,7 +3,7 @@ Electric cars price prediction
 The cost of a new EV has dropped significantly over the last decade or so as batteries have become cheaper and as production has scaled up.
 And there are already some ultra-low-priced EVs for sale. General Motors sells a tiny 4,500 Eur EV in China, and French automaker Citroën sells a 6,600 Eur city car called the Ami in Europe.
 Major carmakers like Tesla and Audi manufacture most types of electric vehicles. The improvement of battery technology in recent years has led to the higher popularity of electric vehicles. Buying an electric vehicle can be a great choice for consumers. The drive quality, low noise levels, and convenience are really great.
-image.png
+![image](https://user-images.githubusercontent.com/34160094/146810636-61a93850-64a9-4e8d-b619-25f45f12bc93.png)
 
 There are, however, many challenges associated with electric vehicles. They have a limited range. Charging the vehicle takes time and can be a hassle sometimes. The availability of charging stations is also a big issue. Incompatibility of charging stations can also be a problem. Despite many challenges and issues, switching to electric vehicles is good for the environment and is more economically viable in the long term. Many have predicted that, by 2040, most of the vehicles will be electric.
 
