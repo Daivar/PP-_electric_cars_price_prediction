@@ -34,6 +34,7 @@ Acc (Accuracy) using Random Forest Regressor 0.81
 Acc using Decision Tree Classifier after increasing max deep 0.9
 
 For better metrics used PCA (dimensionality reduction):
+
 ![image](https://user-images.githubusercontent.com/34160094/146811221-992619f9-517b-42ee-8d42-cd9da278813a.png)
 
 Acc 0.98
